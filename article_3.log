@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.11)  12 JAN 2022 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.11)  24 FEB 2022 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/noharalab/Downloads/LaTeXTemplates_stylish-article_v2/article_3
-(/Users/noharalab/Downloads/LaTeXTemplates_stylish-article_v2/article_3.tex
+**/Users/noharalab/Downloads/LaTeXTemplates_stylish-article/article_3
+(/Users/noharalab/Downloads/LaTeXTemplates_stylish-article/article_3.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (./SelfArx.cls
 Document Class: SelfArx 22/10/2020, v2.2
@@ -644,12 +644,12 @@ Package rerunfilecheck Info: File `article_3.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  16957 strings out of 478353
- 275307 string characters out of 5848086
+ 275298 string characters out of 5848086
  724249 words of memory out of 5000000
  34441 multiletter control sequences out of 15000+600000
  474484 words of font info for 331 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,11n,77p,1063b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,77p,1060b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on article_3.pdf (4 pages, 698724 bytes).
 PDF statistics:
